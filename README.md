@@ -3,7 +3,8 @@ A little to do list app with SQLi vulnerability for educational purposes (PHP/My
 
 # usage
 - Install files on LAMP or WAMP server
-- import table.sql
+- Create database and configure via "config.php"
+- Import "table.sql"
 - Start exploding boolean sqli.
 
 # issue
